@@ -1,0 +1,4 @@
+cryptocompare
+numpy
+pandas
+heapq_max
